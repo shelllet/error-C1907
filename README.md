@@ -1,4 +1,4 @@
-# ConsoleApplication2
+fatal error C1907: unable to recover from previous error(s); stopping compilation
 
 
 
